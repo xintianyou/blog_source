@@ -3,13 +3,14 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description: 路游远方的个人博客，前端，HTML，CSS，JS
-keywords:
-author: 路游远方
-language:
-timezone:
+title: 路游远方
+subtitle: 个人博客
+description: 路游远方
+keywords: 我们的欲望，把长虹绚烂的色彩，借给了只不过是云雾的人生。
+avatar: https://i.loli.net/2019/04/22/5cbdcaa679853.jpg
+author: FangChao·Li
+language: zh-Hans
+timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -73,7 +74,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
