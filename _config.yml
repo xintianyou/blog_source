@@ -8,7 +8,7 @@ subtitle: 个人博客
 description: 路游远方
 keywords: 我们的欲望，把长虹绚烂的色彩，借给了只不过是云雾的人生。
 avatar: https://i.loli.net/2019/04/22/5cbdcaa679853.jpg
-author: FangChao·Li
+author: 李方超
 language: zh-Hans
 timezone: Asia/Shanghai
 
@@ -82,3 +82,13 @@ deploy:
   type: git
   repo: https://github.com/xintianyou/xintianyou.github.io.git
   branch: master
+# Social links
+social:
+  GitHub: https://github.com/xintianyou || github
+  E-mail: mailto:2505621608@qq.com
+  博客园: https://www.cnblogs.com/lifangchao/
+  # Twitter: https://twitter.com/your-user-name
+  # Weibo: http://weibo.com/your-user-name
+  # douban: http://douban.com/people/your-user-name
+  # zhihu: http://www.zhihu.com/people/your-user-name
+  # 等等
