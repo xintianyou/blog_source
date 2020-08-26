@@ -8,7 +8,7 @@ subtitle: 个人博客
 description: 路游远方
 keywords: 我们的欲望，把长虹绚烂的色彩，借给了只不过是云雾的人生。
 avatar: https://i.loli.net/2019/04/22/5cbdcaa679853.jpg
-author: 
+author:
 language: zh-Hans
 timezone: Asia/Shanghai
 
@@ -44,7 +44,7 @@ highlight:
   line_number: true
   auto_detect: false
   tab_replace:
-  
+
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
 # per_page: Posts displayed per page. (0 = disable pagination)
@@ -53,7 +53,7 @@ index_generator:
   path: ''
   per_page: 10
   order_by: -date
-  
+
 # Category & Tag
 default_category: uncategorized
 category_map:
